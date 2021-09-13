@@ -8,7 +8,7 @@ AdMob (Google Inc.): https://policies.google.com/technologies/ads?hl=en <br>
 Firebase Analytics (Google Inc.): https://policies.google.com/privacy?hl=en <br>
 
 ## 2. Contact information
-https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSeBZm1iVrsmVZ3oV2Nww_WVGR0cs3sq7VOVFNbXlgtBUaSyYQ/viewform
 
 <br>
 <br>
@@ -23,7 +23,7 @@ AdMob（Google Inc.）: https://policies.google.com/technologies/ads?hl=ja <br>
 Firebase Analytics（Google Inc.）: https://policies.google.com/privacy?hl=ja <br>
 
 ## 2. お問い合わせ先
-https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSeBZm1iVrsmVZ3oV2Nww_WVGR0cs3sq7VOVFNbXlgtBUaSyYQ/viewform
 
 <br>
 <br>
@@ -38,4 +38,4 @@ AdMob (Google Inc.) : https://policies.google.com/technologies/ads?hl=fr <br>
 Firebase Analytics (Google Inc.) : https://policies.google.com/privacy?hl=fr <br>
 
 ## 2. Informations de contact
-https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSeBZm1iVrsmVZ3oV2Nww_WVGR0cs3sq7VOVFNbXlgtBUaSyYQ/viewform
